@@ -1,4 +1,4 @@
-package linkedlist;
+package linearcollections.linkedlist;
 
 /**
  * @description: 单链表节点
